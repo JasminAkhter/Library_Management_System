@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250711191526_updateModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Migrations\\20250711191526_updateModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\migrations\\20250711190210_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\migrations\\20250711190210_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|g:\\jasmin\\all projects\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D463984-EBB4-4E4C-994F-8A7ED3C462FD}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTOs\\AuthorDto.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:38:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250711191526_updateModels.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250711191526_updateModels.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20250711191526_updateModels.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250711191526_updateModels.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20250711191526_updateModels.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:15:26.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Penalty.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Penalty.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Penalty.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Penalty.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Penalty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:42:54.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\BorrowRecord.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:42:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Member.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Member.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:41:37.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Category.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Category.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:41:11.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Author.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:40:10.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:39:29.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Publisher.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Publisher.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:40:44.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\AppDbContext.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:50:06.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\appsettings.json",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T18:51:21.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250711190210_InIt.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250711190210_InIt.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20250711190210_InIt.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250711190210_InIt.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20250711190210_InIt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:02:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "G:\\JASMIN\\All Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:50:55.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
